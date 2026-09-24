@@ -1,0 +1,95 @@
+===== BANK MANAGEMENT SYSTEM =====
+1. Create Account
+2. Display Account
+3. Deposit Money
+4. Withdraw Money
+5. Check Balance
+6. Exit
+
+Enter your choice: 1
+
+Enter Account Number: 1001
+Enter Account Holder Name: Hemalatha
+Enter Initial Deposit: 5000
+
+Account created successfully!
+
+
+===== BANK MANAGEMENT SYSTEM =====
+1. Create Account
+2. Display Account
+3. Deposit Money
+4. Withdraw Money
+5. Check Balance
+6. Exit
+
+Enter your choice: 2
+
+Enter Account Number: 1001
+
+Account Number : 1001
+Account Holder : Hemalatha
+Balance       : 5000.00
+
+
+===== BANK MANAGEMENT SYSTEM =====
+1. Create Account
+2. Display Account
+3. Deposit Money
+4. Withdraw Money
+5. Check Balance
+6. Exit
+
+Enter your choice: 3
+
+Enter Account Number: 1001
+Enter Deposit Amount: 2000
+
+Amount deposited successfully!
+New Balance: 7000.00
+
+
+===== BANK MANAGEMENT SYSTEM =====
+1. Create Account
+2. Display Account
+3. Deposit Money
+4. Withdraw Money
+5. Check Balance
+6. Exit
+
+Enter your choice: 4
+
+Enter Account Number: 1001
+Enter Withdrawal Amount: 1500
+
+Amount withdrawn successfully!
+Remaining Balance: 5500.00
+
+
+===== BANK MANAGEMENT SYSTEM =====
+1. Create Account
+2. Display Account
+3. Deposit Money
+4. Withdraw Money
+5. Check Balance
+6. Exit
+
+Enter your choice: 5
+
+Enter Account Number: 1001
+
+Account Holder: Hemalatha
+Current Balance: 5500.00
+
+
+===== BANK MANAGEMENT SYSTEM =====
+1. Create Account
+2. Display Account
+3. Deposit Money
+4. Withdraw Money
+5. Check Balance
+6. Exit
+
+Enter your choice: 6
+
+Thank you for using Bank Management System!
